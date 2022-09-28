@@ -77,7 +77,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/digitalbaikunthpur\/wp-admin\/admin-ajax
 /*  */</script>
 <script type="text/javascript" src="https://digitalbaikunthpur.online/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">/*  */
-var userProfileL10n = {"user_id":"0","nonce":"c36f0ba069"};
+var userProfileL10n = {"user_id":"0","nonce":"5ca6aaedeb"};
 /*  */</script>
 <script type="text/javascript" src="https://digitalbaikunthpur.online/wp-admin/js/user-profile.min.js?ver=6.0.2" id="user-profile-js"></script>
 	<div class="clear"></div>
