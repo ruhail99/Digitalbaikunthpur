@@ -12,10 +12,10 @@
 <link rel="stylesheet" id="login-css" href="https://digitalbaikunthpur.online/wp-admin/css/login.min.css?ver=6.0.2" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-	<link rel="icon" href="https://digitalbaikunthpur.online/wp-content/uploads/2022/09/DigitalBaikunthpur-icon.png" sizes="32x32">
-<link rel="icon" href="https://digitalbaikunthpur.online/wp-content/uploads/2022/09/DigitalBaikunthpur-icon.png" sizes="192x192">
-<link rel="apple-touch-icon" href="https://digitalbaikunthpur.online/wp-content/uploads/2022/09/DigitalBaikunthpur-icon.png">
-<meta name="msapplication-TileImage" content="https://digitalbaikunthpur.online/wp-content/uploads/2022/09/DigitalBaikunthpur-icon.png">
+	<link rel="icon" href="https://digitalbaikunthpur.online/wp-content/uploads/2022/09/DigitalBaikunthpur-icon-1.png" sizes="32x32">
+<link rel="icon" href="https://digitalbaikunthpur.online/wp-content/uploads/2022/09/DigitalBaikunthpur-icon-1.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://digitalbaikunthpur.online/wp-content/uploads/2022/09/DigitalBaikunthpur-icon-1.png">
+<meta name="msapplication-TileImage" content="https://digitalbaikunthpur.online/wp-content/uploads/2022/09/DigitalBaikunthpur-icon-1.png">
 	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">document.body.className = document.body.className.replace('no-js','js');</script>
@@ -77,7 +77,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/digitalbaikunthpur\/wp-admin\/admin-ajax
 /*  */</script>
 <script type="text/javascript" src="https://digitalbaikunthpur.online/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">/*  */
-var userProfileL10n = {"user_id":"0","nonce":"5ca6aaedeb"};
+var userProfileL10n = {"user_id":"0","nonce":"0c1c2f29b7"};
 /*  */</script>
 <script type="text/javascript" src="https://digitalbaikunthpur.online/wp-admin/js/user-profile.min.js?ver=6.0.2" id="user-profile-js"></script>
 	<div class="clear"></div>
